@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DepartmentCURD_DBFirst.props" />
+</Project>
